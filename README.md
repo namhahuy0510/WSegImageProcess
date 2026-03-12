@@ -1,4 +1,5 @@
 # App xử lý ảnh nâng cao (Windows 11)
+### Latest version: v2.0
 
 ## Python venv 3.13
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/d3a7582c-6a10-4f40-8a96-8a34b11dcdd2" />
